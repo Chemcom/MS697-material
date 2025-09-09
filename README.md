@@ -1,8 +1,8 @@
 # MS697-material
 
-| date       | project              | jupyter notebook   |
+| date       | project              | jupyter notebook       |
 |------------|----------------------|--------------------|
-| 2025-09-09 | Tutorial             | Tutorial[링크](Tutorial/2025_2_Tutorial.ipynb) |
+| 2025-09-09 | Tutorial             | [Tutorial](Tutorial/2025_2_Tutorial.ipynb) |
 | 2025-09-15 | Hands_on-session1    |                    |
 | 2025-09-24 | Hands_on-session2    |                    |
 | 2025-09-29 | Hands_on-session3    |                  |
